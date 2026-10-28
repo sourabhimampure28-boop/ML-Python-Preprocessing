@@ -1,0 +1,13 @@
+Student_ID,Age,Gender,Study_Hours,Attendance,Internet_Access,City,Final_Score
+101,19.0,Female,4.5,92.0,Yes,Bengaluru,88
+102,20.0,Male,3.0,85.0,Yes,Mysuru,76
+103,19.0,Female,5.0,96.0,Yes,Bengaluru,92
+104,,Male,2.5,70.0,No,Mangaluru,61
+105,21.0,Female,,88.0,Yes,Hubballi,84
+106,20.0,,4.0,90.0,Yes,Mysuru,79
+107,22.0,Male,6.0,,No,Bengaluru,95
+108,19.0,Female,3.5,95.0,Yes,Mangaluru,87
+109,20.0,Male,2.0,65.0,No,Mysuru,55
+110,21.0,Female,5.5,93.0,Yes,Bengaluru,90
+111,,Female,4.5,87.0,Yes,Hubballi,82
+111,,Female,4.5,87.0,Yes,Hubballi,82
